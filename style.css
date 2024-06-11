@@ -1,0 +1,170 @@
+.secone{
+    font-size: 20px;
+    border: 2px solid #f5c71a ;
+    padding: 20px;
+    
+}
+
+ul,li{
+    display: inline;
+    padding: 10px;
+}
+
+.lyft{
+    color:#f5c71a ;
+    font-size:40px;
+}
+.home{
+   margin-left: 25%;
+   border: 3px solid #f5c71a ;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+}
+.driver{
+    margin-left: 10px;
+    
+}
+.contact{
+    margin-left: 10px;
+}
+.info{
+    margin-left: 10px;
+}
+.service{
+    margin-left: 10px;
+    border: 3px solid #f5c71a ;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.login{
+    margin-left: 5px;
+}
+
+
+.headone{
+    color: #f5c71a ;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.done{
+    border: 2px solid white;
+    margin: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    margin-top: 100px;
+    padding: 20px;
+    margin-bottom: 70px;
+
+}
+
+button{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #f5c71a ;
+    color: white;
+    cursor: pointer;
+}
+
+
+.sectwo{
+    text-align: center;
+}
+
+.headtwo{
+    color:#f5c71a ;
+}
+
+.content{
+    
+    display: inline-block;
+    border: 2px solid black;
+    margin-left: 200px;
+    float: left;
+    width: 320px;
+    padding: 15px;
+    justify-content: center;
+}
+.carcon{
+    width: 300px;
+
+}
+.services{
+    display: inline-block;
+    border: 2px solid black;
+    margin-left: 20px;
+    float: left;
+    width: 320px;
+    padding: 15px;
+    justify-content: center;
+}
+.carser{
+    width: 200px;
+
+}
+.facility{
+    display: inline-block;
+    border: 2px solid black;
+    margin-left: 20px;
+    float: left;
+    width: 320px;
+    padding: 15px;
+    justify-content: center;
+}
+.carfac{
+    width: 190px;
+
+}
+.secthree{
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.pcon{
+    display: inline-block;
+    width: 330px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left:170px ;
+    background-color:#f5c71a;
+    color:black;
+    font-size: 20px;
+}
+
+.pser{
+    display: inline-block;
+    width: 330px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left:10px ;
+    background-color:#f5c71a;
+    color: black;
+    font-size: 20px;
+}
+.pfac{
+    display: inline-block;
+    width: 330px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left:10px ;
+    background-color:#f5c71a;
+    color: black;
+    font-size: 20px;
+}
+
+.secfour{
+    border: 2px solid #f5c71a;
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.about{
+    color: #f5c71a;
+}
+.lastcar{
+    float: left;
+    display: inline;
+    
+}
